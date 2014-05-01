@@ -1,0 +1,35 @@
+body {
+	font-family: tahoma, verdana, arial, sans-serif;
+	background: #e1e1e1;
+	background-image: url('http://subtlepatterns.com/patterns/sandpaper.png');
+	background-repeat: fixed;
+}
+
+div.card {
+	background: #ededed;
+	width: 420px;
+	height: 280px;
+	position: relative;
+	padding: 20px;
+	box-shadow: 0px 3px rgba(0, 0, 0, 0.2);
+	border-radius: 2px;
+}
+
+div.card p {
+	font-family: 'Roboto Slab', serif;
+	color: #000;
+	text-align: center;
+}
+
+.header {
+ /* Be creative */
+}
+
+.subheader {
+/* Be creative */
+}
+
+.container {
+	padding: 12px;
+}
+/** { Developed by Jaison Brooks } **/

@@ -1,0 +1,26 @@
+{
+  "application_title": {
+    "message": "Chrome-Extension",
+    "description": "This is the title of the app"
+  },
+  "application_description": {
+    "message": "This is an example Chrome-Extension | Developed by Jaison Brooks",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "application_header": {
+    "message": "Chrome-Extension",
+    "description": "Header of popup"
+  },
+  "application_subheader": {
+    "message": "Example",
+    "description": "Subtitle of popup"
+  },
+  "application_context_parent": {
+    "message": "Chrome-Extension",
+    "description": "parent of context menu"
+  },
+  "application_context_child": {
+    "message": "Search - ",
+    "description": "child of context menu"
+  }
+}

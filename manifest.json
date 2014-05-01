@@ -1,0 +1,23 @@
+{
+    "name"          : "__MSG_application_title__",
+    "version"       : "1.0.0",
+	"default_locale": "en",
+    "description"       : "__MSG_application_description__",
+    "icons": {
+    "16": "res/app_icon16.png",
+    "48": "res/app_icon48.png",
+    "128": "res/app_icon128.png"
+	},
+	"browser_action": {
+    "default_icon": "res/app_icon48.png",
+	"default_title": "__MSG_application_title__",
+    "default_popup": "popup.html"
+	},
+	"background": {
+    "persistent": false,
+    "scripts": ["js/context_menu.js"]
+	},
+    "permissions" :
+        ["contextMenus", "tabs"],
+    "manifest_version": 2
+}
